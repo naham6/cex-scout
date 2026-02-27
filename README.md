@@ -24,7 +24,6 @@ cex-scout/
 ```
 ## Prerequisites
 * Python 3.8+
-* API
 
 ## How to run
 * Clone the repo
