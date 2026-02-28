@@ -29,7 +29,7 @@ cex-scout/
 * Clone the repo
   ```bash
      git clone https://github.com/naham6/cex-scout.git
-     cd cex-scout```
+     cd cex-scout
 * Put your api in .env file
 * Run
   ```bash
